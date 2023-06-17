@@ -70,11 +70,11 @@ jobs:
         cd ${{ github.workspace }}/output
         git config user.name github-actions
         git config user.email github-actions@github.com
-        if git diff --exit-code; then
-          echo "nothing to commit"
-          exit 0
-        else
-          git add .
+        git add .
+        if [[ -n $(git status --porcelain) ]]; then
           git commit -m "Github actions build"
           git push
+        else
+          echo "nothing to commit"
+          exit 0
         fi
