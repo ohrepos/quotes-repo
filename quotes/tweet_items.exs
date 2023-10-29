@@ -57,6 +57,7 @@
   "I've found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often(저는 운이 꽤 예측 가능하다는 것을 알았습니다. 더 많은 행운을 원한다면 더 많은 기회를 잡으세요. 더 적극적으로 행동하세요. 더 자주 눈에 띄세요. @BrianTracy",
   "기분이 우울하면 과거에 사는 것이고 불안하면 미래에 사는 것이며 마음이 평화롭다면 지금 이 순간을 살고 있는 것이다 -노자",
   "헬스장에서 가장 무거운 것은 헬스장 문을 여는 것이다 - 복싱 선수 에드 라티모어",
+  "Preparing to do the thing isn't doing the thing. Scheduling time to do the thing isn't doing the thing. Making a to-do list for the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing. Messaging friends who may... https://ohrepos.github.io/quotes-repo/quotes/0d792810df066963300d6a66833b44200ad92dfa.html",
   "열정적인 것은 IQ 25의 가치가 있습니다. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
   "항상 데드라인을 요구하세요. 데드라인은 관계없거나 평범한 것들을 제거합니다. 데드라인이 '완벽하게' 만들지 못하게 방해해주니까, '다르게' 만들어야 합니다. 다른 것이 좋습니다. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
   "잘 들을 수 있는 것은 초능력입니다. 당신이 좋아하는 사람의 말을 들을 때, 그 사람이 더 말할 게 없을 때까지 '더 없어?'라고 물어보세요. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
