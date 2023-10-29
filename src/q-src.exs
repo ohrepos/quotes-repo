@@ -58,7 +58,8 @@
       "신호등은 나의 자유를 제한하고 억압한다. 하지만 붐비는 도로에 신호등이 없을 때 우리는 정말로 자유로울까? 잘 설계된 정지신호 앞에서 나와 다른 운전자들 그리고 사회 전체가 누리는 자유의 합은 커질까, 아니면 작아질까? 당연한 이야기지만, 정지신호는 누군가에게는 출발 신호다. - 폴 새뮤얼슨",
       "I've found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often(저는 운이 꽤 예측 가능하다는 것을 알았습니다. 더 많은 행운을 원한다면 더 많은 기회를 잡으세요. 더 적극적으로 행동하세요. 더 자주 눈에 띄세요. @BrianTracy",
       "기분이 우울하면 과거에 사는 것이고 불안하면 미래에 사는 것이며 마음이 평화롭다면 지금 이 순간을 살고 있는 것이다 -노자",
-      "헬스장에서 가장 무거운 것은 헬스장 문을 여는 것이다 - 복싱 선수 에드 라티모어"
+      "헬스장에서 가장 무거운 것은 헬스장 문을 여는 것이다 - 복싱 선수 에드 라티모어",
+      "Preparing to do the thing isn't doing the thing. Scheduling time to do the thing isn't doing the thing. Making a to-do list for the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing. Messaging friends who may or may not be doing the thing isn't doing the thing. Writing a banger tweet about how you're going to do the thing isn't doing the thing. Hating on yourself for not doing the thing isn't doing the thing. Hating on other people who have done the thing isn't doing the thing. Hating on the obstacles in the way of doing the thing isn't doing the thing. Fantasizing about all of the adoration you'll receive once you do the thing isn't doing the thing. Reading about how to do the thing isn't doing the thing. Reading about how other people did the thing isn't doing the thing. Reading this essay isn't doing the thing. The only thing that is doing the thing is doing the thing. - things that aren't doing the thing, https://strangestloop.io"
     ]
   },
   %{
