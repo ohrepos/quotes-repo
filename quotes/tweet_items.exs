@@ -60,6 +60,7 @@
   "헬스장에서 가장 무거운 것은 헬스장 문을 여는 것이다 - 복싱 선수 에드 라티모어",
   "Preparing to do the thing isn't doing the thing. Scheduling time to do the thing isn't doing the thing. Making a to-do list for the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing. Messaging friends who may... https://ohrepos.github.io/quotes-repo/quotes/0d792810df066963300d6a66833b44200ad92dfa.html",
   "여러분이 비를 맞으며 몰아치는 폭풍우 속을 헤쳐나가고 삶이 끊임없이 여러분께 다가오더라도 그 폭풍우는 여러분을 망가뜨리지 않습니다. 여러분을 깨끗하게 할 뿐이죠 - 테일러 스위프트",
+  "판단하지 말고 호기심을 가져라(Be curious, not judgmental) - 월트 휘트먼 from 테드 래소",
   "열정적인 것은 IQ 25의 가치가 있습니다. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
   "항상 데드라인을 요구하세요. 데드라인은 관계없거나 평범한 것들을 제거합니다. 데드라인이 '완벽하게' 만들지 못하게 방해해주니까, '다르게' 만들어야 합니다. 다른 것이 좋습니다. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
   "잘 들을 수 있는 것은 초능력입니다. 당신이 좋아하는 사람의 말을 들을 때, 그 사람이 더 말할 게 없을 때까지 '더 없어?'라고 물어보세요. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
