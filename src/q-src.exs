@@ -62,7 +62,8 @@
       "헬스장에서 가장 무거운 것은 헬스장 문을 여는 것이다 - 복싱 선수 에드 라티모어",
       "Preparing to do the thing isn't doing the thing. Scheduling time to do the thing isn't doing the thing. Making a to-do list for the thing isn't doing the thing. Telling people you're going to do the thing isn't doing the thing. Messaging friends who may or may not be doing the thing isn't doing the thing. Writing a banger tweet about how you're going to do the thing isn't doing the thing. Hating on yourself for not doing the thing isn't doing the thing. Hating on other people who have done the thing isn't doing the thing. Hating on the obstacles in the way of doing the thing isn't doing the thing. Fantasizing about all of the adoration you'll receive once you do the thing isn't doing the thing. Reading about how to do the thing isn't doing the thing. Reading about how other people did the thing isn't doing the thing. Reading this essay isn't doing the thing. The only thing that is doing the thing is doing the thing. - things that aren't doing the thing, https://strangestloop.io",
       "여러분이 비를 맞으며 몰아치는 폭풍우 속을 헤쳐나가고 삶이 끊임없이 여러분께 다가오더라도 그 폭풍우는 여러분을 망가뜨리지 않습니다. 여러분을 깨끗하게 할 뿐이죠 - 테일러 스위프트",
-      "판단하지 말고 호기심을 가져라(Be curious, not judgmental) - 월트 휘트먼 from 테드 래소"
+      "판단하지 말고 호기심을 가져라(Be curious, not judgmental) - 월트 휘트먼 from 테드 래소",
+      "당신이 스스로 인생을 설계하지 않으면, 다른 사람의 설계에 따라 살게 될 가능성이 큽니다. 그런데 그들이 당신을 위해 준비한 건요? 별로 없습니다. If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much. - 짐 론(Jim Rohn)"
     ]
   },
   %{
