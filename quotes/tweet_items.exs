@@ -63,6 +63,7 @@
   "판단하지 말고 호기심을 가져라(Be curious, not judgmental) - 월트 휘트먼 from 테드 래소",
   "당신이 스스로 인생을 설계하지 않으면, 다른 사람의 설계에 따라 살게 될 가능성이 큽니다. 그런데 그들이 당신을 위해 준비한 건요? 별로 없습니다. If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they ha... https://ohrepos.github.io/quotes-repo/quotes/414a2c25e328de0bd82dcdd8801f85a8fbea6575.html",
   "완벽은 없음. 완벽이라는 목표는 계속 변함. 멈추지 않음. 따라갈 수 있지만, 붙잡을 수 없음. - 아바투르, 스타크래프트 2",
+  "The right to swing my fist ends where the other man's nose begins. 내 주먹을 휘두를 권리는 다른 사람의 코가 시작되는 지점에서 끝난다. - 올리버 웬델 홈스 주니어(미국의 법학자)",
   "열정적인 것은 IQ 25의 가치가 있습니다. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
   "항상 데드라인을 요구하세요. 데드라인은 관계없거나 평범한 것들을 제거합니다. 데드라인이 '완벽하게' 만들지 못하게 방해해주니까, '다르게' 만들어야 합니다. 다른 것이 좋습니다. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
   "잘 들을 수 있는 것은 초능력입니다. 당신이 좋아하는 사람의 말을 들을 때, 그 사람이 더 말할 게 없을 때까지 '더 없어?'라고 물어보세요. <케빈 켈리의 68가지 조언 https://news.hada.io/topic?id=2060>",
