@@ -64,7 +64,8 @@
       "여러분이 비를 맞으며 몰아치는 폭풍우 속을 헤쳐나가고 삶이 끊임없이 여러분께 다가오더라도 그 폭풍우는 여러분을 망가뜨리지 않습니다. 여러분을 깨끗하게 할 뿐이죠 - 테일러 스위프트",
       "판단하지 말고 호기심을 가져라(Be curious, not judgmental) - 월트 휘트먼 from 테드 래소",
       "당신이 스스로 인생을 설계하지 않으면, 다른 사람의 설계에 따라 살게 될 가능성이 큽니다. 그런데 그들이 당신을 위해 준비한 건요? 별로 없습니다. If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much. - 짐 론(Jim Rohn)",
-      "완벽은 없음. 완벽이라는 목표는 계속 변함. 멈추지 않음. 따라갈 수 있지만, 붙잡을 수 없음. - 아바투르, 스타크래프트 2"
+      "완벽은 없음. 완벽이라는 목표는 계속 변함. 멈추지 않음. 따라갈 수 있지만, 붙잡을 수 없음. - 아바투르, 스타크래프트 2",
+      "The right to swing my fist ends where the other man's nose begins. 내 주먹을 휘두를 권리는 다른 사람의 코가 시작되는 지점에서 끝난다. - 올리버 웬델 홈스 주니어(미국의 법학자)"
     ]
   },
   %{
